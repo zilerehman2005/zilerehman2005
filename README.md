@@ -50,7 +50,7 @@ A Convolutional Neural Network built from scratch for clothing image classificat
 
 # 🌐 Connect With Me:
 
-LinkedIn: Add your LinkedIn link
+LinkedIn: https://www.linkedin.com/in/zillerehman05/
 
 
 ---
