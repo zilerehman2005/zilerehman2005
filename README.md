@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an AI & Machine Learning Developer with a strong focus on building intelligent applications using Python, Deep Learning, Computer Vision, and Flutter.<br><br>
+I’m @Zille Rehman an AI & Machine Learning Developer with a strong focus on building intelligent applications using Python, Deep Learning, Computer Vision, and Flutter.<br><br>
 
 I’m currently working on cross-platform mobile applications using Flutter, focusing on clean UI architecture, state management, Firebase integration, and creating scalable user experiences.<br><br>
 
