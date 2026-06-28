@@ -34,7 +34,7 @@ I'm open to collaborating on **Flutter**, **AI/ML**, **Computer Vision**, and **
 
 # 🚀 Featured Projects:
 
-### 🤟 Talk To Deaf AI
+### 🤟 Talk with Deaf AI
 AI-powered communication application built using Flutter and AI concepts to improve accessibility and communication.
 
 ### 🧵 Fashion-MNIST CNN Classifier
